@@ -7,7 +7,7 @@ class HclMonitor {
     char[] array = new char[100];
     try {
       // Creates a reader using the FileReader
-      FileReader input = new FileReader("c:\\Javatest\\newFile.txt");
+      FileReader input = new FileReader("c:\\Jenkinswithjava\\newFile.txt");
 
       // Reads characters
       input.read(array);
