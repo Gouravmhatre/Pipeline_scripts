@@ -5,7 +5,7 @@ class HclUATProj {
   public static void main(String[] args) {
 
     // create a file object for the current location
-    File file = new File("c:\\Javatest\\newFile.txt");
+    File file = new File("c:\\Jenkinswithjava\\newFile.txt");
 
     try {
 
